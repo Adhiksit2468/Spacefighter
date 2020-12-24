@@ -1,0 +1,10 @@
+body{
+    background-image:linear-gradient(to left, #ee0979,#ff6a00);
+    background-size: cover;
+}
+
+#myh1{
+    color:white;
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+}
